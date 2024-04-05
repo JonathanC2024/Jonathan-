@@ -13,4 +13,4 @@ public class Main{
     int total=roll1+roll2;
     System.out.println("The total of the two dice is:"+total);
   }
-}
+}//Hello there!
